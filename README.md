@@ -25,7 +25,7 @@
 
 #### 下载安装:
 ``` bash
-wget --no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/kennyoysj/teddysunBackup/shadowsocks_install/master/shadowsocks.sh
+wget --no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/kennyoysj/teddysunBackup/master/shadowsocks_install/shadowsocks.sh
 chmod +x shadowsocks.sh
 ./shadowsocks.sh 2>&1 | tee shadowsocks.log
 ```
